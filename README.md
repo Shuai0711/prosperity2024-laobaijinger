@@ -32,7 +32,7 @@ In general gives a stable 70k profit per day.
 
 R4: `COCONUT` and `COCONUT_COUPON`
 
-Used basic Black-Scholes model, with fixed volatility = 0.0101193. `COCONUT_COUPON` is like a sell option of `COCONUT`, since we don't have the buy option, we use `COCONUT` to hedge.
+Used basic Black-Scholes model, with fixed volatility = 0.0101193. `COCONUT_COUPON` is like a put option of `COCONUT`, since we don't have the buy option, we use `COCONUT` to hedge.
 
 We calculate fair price of `COCONUT_COUPON`. When it moved more than margin = 2 from fair price, we take the negative position to trade `COCONUT_COUPON` and trade -delta * position of `COCONUT`.
 
