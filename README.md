@@ -2,6 +2,8 @@
 
 This group LAOBAIJINGER in 2024 IMC Prosperity2 challange!
 
+Placed 173th.
+
 Group members: Shuai Yuan & Jiayue Joyce Chen @ UC Santa Barbara, Xilin Rice Wang @ Brown University, Yutong Elena Li @ U of Chicago, Shuiqing Sophie Han @ U of Michigan Ann Arbor.
 
 We are all undergrads and NEW to algo trading. This is our first ever hands-on experience, and we are doing a decent job (in my opinion) as a first timer haha.
